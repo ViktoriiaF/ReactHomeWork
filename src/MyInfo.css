@@ -1,0 +1,13 @@
+div{
+    width: fit-content;
+    margin: auto;
+}
+ul{
+    width: fit-content;
+    background-color:greenyellow;
+    color: rgb(40, 59, 11);
+}
+
+p{
+    color: rgb(123, 179, 41);
+}
