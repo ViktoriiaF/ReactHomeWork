@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import MyInfo from './MyInfo';
+import App from './components/App';
 
 const html=(
   <div>
-    <MyInfo/>
+   <App/>
   </div>
 )
 
